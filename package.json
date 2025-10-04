@@ -28,7 +28,7 @@
     "husky": "^9.1.7",
     "netlify-plugin-cache": "^1.0.3",
     "prettier": "^3.5.3",
-    "pretty-quick": "^4.1.1"
+    "pretty-quick": "^4.2.2"
   },
   "packageManager": "yarn@4.7.0"
 }
